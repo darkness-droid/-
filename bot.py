@@ -30,12 +30,11 @@ threading.Thread(target=run_web, daemon=True).start()
 # =========================================================================
 
 # ==================== 🛠️ 凭证配置 ====================
-DISCORD_TOKEN = "MTU1MDE4MDI5ODM2NzQ0MzA2NQ.GOj6k0.4OgrQ1TzjMp3tfPw6PIJ27FwgCkYxXB1glP3uA"
+DISCORD_TOKEN = "MTU1NTE1NjYyMTcyNDc0NTc1OA.GmCe0U.ylH8gn3yM1v4JYYFCizIScRzV4GZmY9ViyVO3U"
 
 GEMINI_API_KEYS = [
-    "AQ.Ab8RN6KJ28iviK8BpaQesaPqgFRBhHMIISOquQ1I48KPqcek-Q",
-    "AQ.Ab8RN6IC8Li78z5Zw2neoOwBhtpDFBzZbFEen3a3rN87vdqYXA",
-    "AQ.Ab8RN6IP5e_kftULq2wQo0i-eHFAIzLRpwEjklLM7cRN2dr2gQ",
+    "AQ.Ab8RN6KM8aGaUkqry2G-CHf1as4Sq5YKJPhD8CGhyCilM0imJg",
+    "AQ.Ab8RN6IQmCicAMeHq7uqWaIdeSsD-Iw3Xs-SxTulPtpuaioGAQ",
 ]
 # ======================================================================
 
