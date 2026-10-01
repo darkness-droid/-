@@ -36,4 +36,4 @@ async def on_ready():
 #     await ctx.send("pong")
 
 # ==== 3. 启动 bot ====
-bot.run(os.environ["MTU1MDE4MDI5ODM2NzQ0MzA2NQ.GOj6k0.4OgrQ1TzjMp3tfPw6PIJ27FwgCkYxXB1glP3uA"])
+bot.run(os.environ["MTU1NTE1NjYyMTcyNDc0NTc1OA.GmCe0U.ylH8gn3yM1v4JYYFCizIScRzV4GZmY9ViyVO3U])
